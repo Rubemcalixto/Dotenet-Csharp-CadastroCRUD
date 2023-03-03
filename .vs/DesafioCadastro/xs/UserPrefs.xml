@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{AAE0B5F4-46BE-4A6B-B9B7-252AD9562900}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DesafioCadastro PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesafioCadastro/Program.cs">
+    <Files>
+      <File FileName="DesafioCadastro/Controllers/Contato.cs" Line="25" Column="10" />
+      <File FileName="DesafioCadastro/Views/Shared/_Layout.cshtml" Line="41" Column="47" />
+      <File FileName="DesafioCadastro/Views/Home/Index.cshtml" Line="5" Column="40" />
+      <File FileName="DesafioCadastro/Models/ContatoModel.cs" Line="14" Column="32" />
+      <File FileName="DesafioCadastro/Program.cs" Line="42" Column="1" />
+      <File FileName="DesafioCadastro/appsettings.Development.json" Line="14" Column="1" />
+      <File FileName="DesafioCadastro/Data/BancoContext.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesafioCadastro" expanded="True">
+            <Node name="DesafioCadastro" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Contato" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
