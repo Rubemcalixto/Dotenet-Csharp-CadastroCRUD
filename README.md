@@ -17,6 +17,9 @@ Abaixo imagens Front-end do projeto:
 
 ![Captura de Tela 2023-03-02 às 14 16 50](https://user-images.githubusercontent.com/51278488/222743955-60211b28-beb7-48ba-abc6-6ff4be530a56.png)
 
+## Autor do projeto: Rubem Calixto
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubemcalixto/)](https://www.linkedin.com/in/rubemcalixto/)
+
 
 
 
